@@ -34,6 +34,6 @@
     "push-dir": "^0.4.1",
     "tailwindcss": "^0.7.2",
     "velocity-animate": "^1.5.2",
-    "xlsx": "^0.14.1"
+    "xlsx": "^0.17.0"
   }
 }
