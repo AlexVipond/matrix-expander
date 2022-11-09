@@ -16,7 +16,7 @@
     "@nuxtjs/markdownit": "^1.2.2",
     "cross-env": "^5.2.0",
     "highlight.js": "^9.13.1",
-    "nuxt": "^2.3.4",
+    "nuxt": "^2.15.8",
     "typeface-source-sans-pro": "0.0.54",
     "typeface-vt323": "0.0.54"
   },
